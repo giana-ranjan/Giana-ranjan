@@ -2,7 +2,7 @@
   <a href="https://github.com/SuvanshD">
 </p>
 
-<h1 align="center">🚴‍♂️ Suvansh Dureja</h1>
+<h1 align="center">💻 Giana Ranjan</h1>
 
 <p align="center"><strong>Digital Craftsman (Developer/Artist)</strong></p>
 
