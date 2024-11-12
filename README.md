@@ -4,7 +4,7 @@
 
 <h1 align="center">💻 Giana Ranjan</h1>
 
-<p align="center"><strong>Digital Craftsman (Developer/Artist)</strong></p>
+<p align="center"><strong>Aspiring Analyst (Problem-solver)</strong></p>
 
 <br/>
 
