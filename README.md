@@ -56,7 +56,7 @@
 <br/>
 
 
-21-year-old B.Tech student passionate about AI, Data Science, and tech innovation. From coding for the future to capturing life through my lens, and even exploring cybersecurity. With a compass for research and a knack for graphic design, I'm bridging the gap between tech and creativity to make an impact in Software Development. Let's connect and inspire!
+A recent graduate passionate about problem-solving, analysis and finance. From coding for the future to capturing life through my lens, and even exploring cybersecurity. With a compass for research and a knack for graphic design, I'm bridging the gap between tech and creativity to make an impact in Software Development. Let's connect and inspire!
 
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
